@@ -3,7 +3,6 @@ import java.io.*;
 
 public class Main
 {
-	public static int time;
 	public static void main(String[] args)
 	{
 	Timer timec=new Timer();
